@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UdemyRolodex/static/css/main.25fffdd6.chunk.css",
+    "main.js": "/UdemyRolodex/static/js/main.fe73058e.chunk.js",
+    "main.js.map": "/UdemyRolodex/static/js/main.fe73058e.chunk.js.map",
+    "runtime-main.js": "/UdemyRolodex/static/js/runtime-main.34453ecb.js",
+    "runtime-main.js.map": "/UdemyRolodex/static/js/runtime-main.34453ecb.js.map",
+    "static/js/2.13c5b67e.chunk.js": "/UdemyRolodex/static/js/2.13c5b67e.chunk.js",
+    "static/js/2.13c5b67e.chunk.js.map": "/UdemyRolodex/static/js/2.13c5b67e.chunk.js.map",
+    "index.html": "/UdemyRolodex/index.html",
+    "precache-manifest.3c7caa145e9c636c4c139b02d43eb32e.js": "/UdemyRolodex/precache-manifest.3c7caa145e9c636c4c139b02d43eb32e.js",
+    "service-worker.js": "/UdemyRolodex/service-worker.js",
+    "static/css/main.25fffdd6.chunk.css.map": "/UdemyRolodex/static/css/main.25fffdd6.chunk.css.map",
+    "static/js/2.13c5b67e.chunk.js.LICENSE.txt": "/UdemyRolodex/static/js/2.13c5b67e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34453ecb.js",
+    "static/js/2.13c5b67e.chunk.js",
+    "static/css/main.25fffdd6.chunk.css",
+    "static/js/main.fe73058e.chunk.js"
+  ]
+}
